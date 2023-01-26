@@ -3,7 +3,7 @@
 <br><br>
 <p align="left">
   <a href="https://godotengine.org/">
-    <img src="https://godotengine.org/themes/godotengine/assets/logo_dark.svg" width="600" alt="GODOT LOGO">
+    <img src="https://godotengine.org/assets/logo_dark.svg" width="600" alt="GODOT LOGO">
   </a>
 </p>
 
